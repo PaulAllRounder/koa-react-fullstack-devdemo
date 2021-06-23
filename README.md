@@ -1,0 +1,2 @@
+# resilience
+Always keep curiosity
